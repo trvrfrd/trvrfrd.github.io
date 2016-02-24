@@ -1,17 +1,18 @@
 body {
-  background-image: url(../img/hell-yeah.gif);
+  background-image: url(../img/cybercat.gif);
+  /* annoying responsive background size stuff is at the bottom */
+  background-size: 100%;
   box-sizing: border-box;
   color: #eee;
   font-family: monospace;
   font-size: 24px;
-  margin: auto;
-  text-shadow: 2px 2px 2px #f00;
-  width: 80%;
+  text-shadow: 3px 3px 2px #00f;
 }
 
 h1 {
   font-size: 1.5em;
   margin: 0;
+  margin-top: 25px;
 }
 
 h2 {
@@ -20,11 +21,22 @@ h2 {
 }
 
 main {
+  background-color: rgba(50, 50, 50, 0.5);
+  border-radius: 10px;
+  bottom: 0;
+  height: 280px;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
   text-align: center;
+  top: 0;
+  width: 320px;
 }
 
 nav ul {
   padding: 0;
+  margin-top: 30px;
 }
 
 nav li {
@@ -35,10 +47,39 @@ nav a {
   color: inherit;
 }
 
+nav a:hover {
+  text-decoration: none;
+}
+
 nav a:hover::before {
   content: ">>>";
 }
 
 nav a:hover::after {
   content: "<<<";
+}
+
+/* lol this is dumb */
+@media screen and (min-width: 600px) {
+  body {
+    background-size: 50%;
+  }
+}
+
+@media screen and (min-width: 1050px) {
+  body {
+    background-size: 33%;
+  }
+}
+
+@media screen and (min-width: 1800px) {
+  body {
+    background-size: 25%;
+  }
+}
+
+@media screen and (min-width: 2000px) {
+  body {
+    background-size: 20%;
+  }
 }
