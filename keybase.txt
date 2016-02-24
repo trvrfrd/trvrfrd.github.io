@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/trvrfrd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+* I am an admin of http://trvrfrd.net
+* I am trvrfrd (https://keybase.io/trvrfrd) on keybase.
+* I have a public key with fingerprint F86C 3F12 44BE 5F93 7E7B  FD20 FFF8 1C17 67DB F524
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.18"
+        },
+        "key": {
+            "eldest_kid": "01012d0566293a5979ad7eb314c96ec5d9391f0d5d839e0c80e225364d0c6d928e8a0a",
+            "fingerprint": "f86c3f1244be5f937e7bfd20fff81c1767dbf524",
+            "host": "keybase.io",
+            "key_id": "fff81c1767dbf524",
+            "kid": "01012d0566293a5979ad7eb314c96ec5d9391f0d5d839e0c80e225364d0c6d928e8a0a",
+            "uid": "f811157a68d2268f58550de3a4e13819",
+            "username": "trvrfrd"
+        },
+        "service": {
+            "hostname": "trvrfrd.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1440184243,
+    "expire_in": 157680000,
+    "prev": "8b7004cb478943440e475d03e91998b3e11c24464a0f64fd9c370917d6cae2da",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtkn1MVXUYxy8XuSjpJMFhiO3uYOgYwnl/QcBqTeQSuGKgSAbn5Xcuh5d7L+dc
+uBGDlkTyciPWIkEaFg4BCV1lMnkrhHgJEC4VpGxGhDC1lmREWWrnGLW59We/v377
+PZ/neb7P9/lVbXDX6d3u/xbgZ55Z3u42cp3TJU47Pi6AOKuQD4UXQHyWBCx27WZh
+swEUDmWCfI5VQKhkNVqsAgjNUIyrTAiUB2RFslpUCg6lQxEaKgzReC0bZAlAsadm
+SoIWRWAEFWCCJFEGYwmGYliBAhyG4DxDAp4QGIxBRFggBBpjAMzTMEBRAiNxAeZJ
+gUFpQLMwqzYUJYsZyDZZ0iRCIk3ymIigOM4BQmQwClCcKKCwKIo0wiMUSQmcSKC4
+mphuVewPDQM9UJr6QN5/8P+z7ty/+9AIghAUS9ICipK0SNAEAQsAY3GAYDTCaKAC
+5FXj7XKeLMqC5qn6mCfxQPNVG+RhINQCtF3YZKvdyluz1EC63W4L1/Ls+TYNdAAu
+dbVEKidZBNXEf5dXrW4PUVHeLmlFERyHERpHcSwEAi/ZJBmkShpBUCQNq0frA/LU
+mjRHwTDOczhFMzimZgGcIgQYAwzCMDSHAQTh1cWQOAuLJC4KDI9RMINQAsmzABU0
+UxSQY7FC4ZSqkzWrJRXJbGHtuTKACsv0AWt0bnqdwUOvfU+d1zrvf/7s2dveutrA
+eNeBPtRmak+7dKQh2rBxrK45u2n0vvfMRP+tRDgufn4JKe7tezOtttEvxlj2+ZZv
+ll3VgSPUqT+2eQ0lfXD4+eL5Z45c+7Cn63pARUX1yXvHJxPbZ7I9r8TXzbZdTKhX
+9h9fibTohU7BZ+7M7u1xS5u7Nha8Ph24o955zmOdc6OjNzEjKKY/DgpOH7j80dqQ
+G96NoNLqMlAtYnBR6UptZuykSXkF9rCfnt3km2jYl9Bqptq2HjSuLW+en6K45uSC
+KO7LsDSzY2FPzt3W+dfcexb2lt6I+iLC2d/YM/REyfipgO6Ofk+DY46hjCOuUc9L
+p+NTDr2RZP1u8HE+9kR5wztnhxMWHZE/tCQT5b4zV9+2zU18ci3354WdL7v8W57e
+HDzoW5NV5p5AdNa9Fzv0WH2BwXZ0zWeovsoZBIJvenCgt5UPC1RGS9/1WF9jaoo4
+tjf7ZFL0Tyf6Mg2/P/JozDn90r3xQqZj4Vk5ImPxaoNclK/suuB/tGpHZcXOyru/
+PGf0+7rk2+orfx5cT5zZH1nyPfX+YvdNzzB6KuWif0nbk12H9vz6VfxkE3FnW9iK
+aeyp4Wnnp+0mYaCTOVxqohz77iRsCip07xiL9i5ypWyVln3ON85OOb0msnbfDs9p
+Lp7dYHgh+fzAlnH0QMSuY36Dr8qzUdPDL/rcSrpcU0iE/dh94a2/AA==
+=+wUL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/trvrfrd
+
+==================================================================
