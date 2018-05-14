@@ -3,7 +3,7 @@ body {
   /* annoying responsive background size stuff is at the bottom */
   background-size: 100%;
   box-sizing: border-box;
-  color: #eee;
+  color: #fff;
   font-family: monospace;
   font-size: 24px;
   text-shadow: 3px 3px 2px #00f;
